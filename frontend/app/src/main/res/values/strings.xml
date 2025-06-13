@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="connecting">Подключение...</string>
+    <string name="connected">Вы подключены!</string>
+    <string name="start_scan">Начать
+поиск</string>
+    <string name="stop_scan">Остановить поиск</string>
+    <string name="start_server">Запустить сервер</string>
+    <string name="paired_devices">Сопряжённые устройства</string>
+    <string name="no_name">(Без имени)</string>
+    <string name="scanned_devices">Найденные устройства</string>
+    <string name="messages">Сообщения</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="cant_connect_non_paired">Невозможно подключиться к несопряжённому устройству.</string>
+    <string name="connection_interrupted">Соединение было прервано</string>
+    <string name="unknown_name">Неизвестное имя</string>
+    <string name="reading_failed">Ошибка чтения входящих данных</string>
+    <string name="no_bluetooth_connect_permission">Нет разрешения BLUETOOTH_CONNECT</string>
+</resources>
